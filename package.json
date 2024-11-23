@@ -9,10 +9,15 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "atlas-mobile": "file:",
     "expo": "~52.0.8",
+    "expo-sensors": "~14.0.1",
     "expo-status-bar": "~2.0.0",
     "react": "18.3.1",
-    "react-native": "0.76.2"
+    "react-native": "0.76.2",
+    "react-native-navigation-bar-color": "^2.0.2",
+    "socket.io-client": "^4.8.1",
+    "react-native-gesture-handler": "~2.20.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
